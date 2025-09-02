@@ -171,14 +171,14 @@
   <!-- Header -->
   <header>
     <img src="https://via.placeholder.com/150" alt="Profile Photo">
-    <h1>Hi, I'm Your Name</h1>
-    <p>Aspiring Web Developer | 1st Year Student</p>
+    <h1>Hi, I'm Keshar Choudhary</h1>
+    <p>Aspiring Web Developer | 2nd Year Student</p>
   </header>
 
   <!-- About -->
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a first-year student learning web development. I enjoy creating projects and want to build amazing websites with clean and modern design.</p>
+    <p>I am a second-year student learning web development. I enjoy creating projects and want to build amazing websites with clean and modern design.</p>
   </section>
 
   <!-- Skills -->
@@ -206,13 +206,13 @@
   <!-- Contact -->
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: yourname@email.com</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>Email: kesharchoudhary113@gmail.com</p>
+    <p>LinkedIn: linkedin.com/in/Keshar@1610</p>
   </section>
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 Your Name</p>
+    <p>© 2025 Keshar Choudhary</p>
   </footer>
 
 </body>
